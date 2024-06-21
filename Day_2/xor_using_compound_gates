@@ -1,0 +1,2 @@
+xor(a, b) = aoi21(a, b, nor(a, b))
+xor(a, b) = not(oai21(a, b, nand(a, b))
