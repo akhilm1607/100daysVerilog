@@ -1,1 +1,3 @@
 Day_6 focuses on coding a design to display BCD numbers on a seven segment display.
+
+Seven sement display is an active low display, which means when 0 is given to a segment, it glows.
