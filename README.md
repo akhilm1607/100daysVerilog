@@ -21,3 +21,5 @@ The README.md file lists the contents of the design for each day.
 **`DAY 9`** : Decoders : 2:4, 3:8 using behavioral, dataflow and structural modelling
 
 **`DAY 10`** : Priority Encoder : 8:3
+
+**`DAY 11`** : Multiplexers: 2:1, 4:1, 8:1 using behavioral, dataflow and structural modelling
